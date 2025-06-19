@@ -41,9 +41,6 @@ char *to_uppercase(char buff[BUFFER_LENGTH])
   return message;
 }
 
-/**
- * C Implementation of the UDP Server from the book 'Computer Networking: A Top-Down Approach'
- */
 int main()
 {
   int sfd;
